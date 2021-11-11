@@ -7,7 +7,7 @@
 <!--- 💬 Ask me about ... -->
 - 📫 How to reach me:
   - Email: dgongoragamboa@gmail.com
-  - Linkedin: https://www.linkedin.com/in/diego-gongora-gamboa
+  - LinkedIn: https://www.linkedin.com/in/diego-gongora-gamboa
   - My Portfolio: https://diegojoel98.github.io/
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
