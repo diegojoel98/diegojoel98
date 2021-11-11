@@ -5,7 +5,7 @@
 - 👯 I’m looking for challenges that involve the web world and enhance my skills
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ... -->
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   - Email: dgongoragamboa@gmail.com
   - Linkedin: https://www.linkedin.com/in/diego-gongora-gamboa
   - My Portfolio: https://diegojoel98.github.io/
