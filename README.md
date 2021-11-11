@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Diego
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning all web technologies 😋 to be a better Full Stack Developer
-- 👯 I’m looking for challenges that involve the web world and enhance my skills
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ... -->
+- 🌱 I’m currently learning all web technologies 😋 to be a better Full Stack Developer
+- 👯 I’m looking for challenges that involve the web world and enhance my skills
 - 📫 How to reach me:
   - Email: dgongoragamboa@gmail.com
   - LinkedIn: https://www.linkedin.com/in/diego-gongora-gamboa
