@@ -8,6 +8,7 @@
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/diego-gongora-gamboa
   - My Portfolio: https://diegojoel98.github.io/
+  - My medium profile: https://medium.com/@dgongoragamboa
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
