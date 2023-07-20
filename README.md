@@ -38,7 +38,7 @@
 </ul>
 </p>
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [30 Tools and Resources That Will Save You Hours of Work as a Software Developer](https://medium.com/@dgongoragamboa/30-tools-and-resources-that-will-save-you-hours-of-work-as-a-software-developer-c3a1f001808a?source=rss-7019711a827d------2)
 - [30 Recursos y herramientas que te ahorrarán horas de trabajo como desarrollador de software](https://medium.com/@dgongoragamboa/30-recursos-y-herramientas-que-te-ahorrar%C3%A1n-horas-de-trabajo-como-desarrollador-de-software-b0a0c8da9084?source=rss-7019711a827d------2)
