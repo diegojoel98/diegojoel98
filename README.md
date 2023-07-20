@@ -1,4 +1,5 @@
 <!-- ### Hi there 👋 I'm Diego -->
+<!-- ### Hi there 👋 I'm Diego -->
 
 <!--- 🔭 I’m currently working on ...-->
 <!--- 🤔 I’m looking for help with ...-->
@@ -8,6 +9,7 @@
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/diego-gongora-gamboa
   - My Portfolio: https://diegojoel98.github.io/
+  - My medium profile: https://medium.com/@dgongoragamboa
   - My medium profile: https://medium.com/@dgongoragamboa -->
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
