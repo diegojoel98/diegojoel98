@@ -40,10 +40,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tools as Useful as ChatGPT in AI](https://medium.com/@dgongoragamboa/tools-as-useful-as-chatgpt-in-ai-6f49142a6a1?source=rss-7019711a827d------2)
+- [Herramientas de IA tan útiles como ChatGPT](https://medium.com/@dgongoragamboa/herramientas-de-ia-tan-%C3%BAtiles-como-chatgpt-2cb277dae1c1?source=rss-7019711a827d------2)
 - [How to Deploy a Python Cloud Function to Google Cloud](https://medium.com/@dgongoragamboa/how-to-deploy-a-python-cloud-function-to-google-cloud-fd992e4f374?source=rss-7019711a827d------2)
 - [Subir una cloud function de python a GCloud](https://medium.com/@dgongoragamboa/subir-una-cloud-function-de-python-a-gcloud-cd7af060ddc6?source=rss-7019711a827d------2)
-- [30 Tools and Resources That Will Save You Hours of Work as a Software Developer](https://medium.com/@dgongoragamboa/30-tools-and-resources-that-will-save-you-hours-of-work-as-a-software-developer-c3a1f001808a?source=rss-7019711a827d------2)
-- [30 Recursos y herramientas que te ahorrarán horas de trabajo como desarrollador de software](https://medium.com/@dgongoragamboa/30-recursos-y-herramientas-que-te-ahorrar%C3%A1n-horas-de-trabajo-como-desarrollador-de-software-b0a0c8da9084?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
