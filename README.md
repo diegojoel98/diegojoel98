@@ -40,10 +40,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Angular’s routing system like an expert](https://medium.com/@dgongoragamboa/how-to-use-angulars-routing-system-like-an-expert-5a3bd190cc71?source=rss-7019711a827d------2)
+- [Cómo usar el sistema de rutas de Angular como un experto](https://medium.com/@dgongoragamboa/c%C3%B3mo-usar-el-sistema-de-rutas-de-angular-como-un-experto-313c27697e5e?source=rss-7019711a827d------2)
 - [Tools as Useful as ChatGPT in AI](https://medium.com/@dgongoragamboa/tools-as-useful-as-chatgpt-in-ai-6f49142a6a1?source=rss-7019711a827d------2)
 - [Herramientas de IA tan útiles como ChatGPT](https://medium.com/@dgongoragamboa/herramientas-de-ia-tan-%C3%BAtiles-como-chatgpt-2cb277dae1c1?source=rss-7019711a827d------2)
-- [How to Deploy a Python Cloud Function to Google Cloud](https://medium.com/@dgongoragamboa/how-to-deploy-a-python-cloud-function-to-google-cloud-fd992e4f374?source=rss-7019711a827d------2)
-- [Subir una cloud function de python a GCloud](https://medium.com/@dgongoragamboa/subir-una-cloud-function-de-python-a-gcloud-cd7af060ddc6?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
