@@ -40,10 +40,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [New Native Scroll-driven Animations with CSS](https://medium.com/@dgongoragamboa/new-native-scroll-driven-animations-with-css-d8e0289df30c?source=rss-7019711a827d------2)
+- [Nuevas Animaciones de Scroll Nativas con CSS](https://medium.com/@dgongoragamboa/nuevas-animaciones-de-scroll-nativas-con-css-8f05abdb4224?source=rss-7019711a827d------2)
 - [How to Use Vue’s Routing System Like an Expert](https://medium.com/@dgongoragamboa/how-to-use-vues-routing-system-like-an-expert-c24058c99930?source=rss-7019711a827d------2)
 - [Cómo Utilizar el Sistema de Rutas de Vue Como un Experto](https://medium.com/@dgongoragamboa/c%C3%B3mo-utilizar-el-sistema-de-rutas-de-vue-como-un-experto-53001dba39bb?source=rss-7019711a827d------2)
-- [How to use Angular’s routing system like an expert](https://medium.com/@dgongoragamboa/how-to-use-angulars-routing-system-like-an-expert-5a3bd190cc71?source=rss-7019711a827d------2)
-- [Cómo usar el sistema de rutas de Angular como un experto](https://medium.com/@dgongoragamboa/c%C3%B3mo-usar-el-sistema-de-rutas-de-angular-como-un-experto-313c27697e5e?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
