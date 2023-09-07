@@ -22,6 +22,8 @@
 - 👨‍💻 All of my projects are available at [https://diegojoel98.github.io/](https://diegojoel98.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@dgongoragamboa](https://medium.com/@dgongoragamboa)
+  
+  - I also write on [Code & Jobs](https://www.codenjobs.com/blogs?username=dgongora)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
