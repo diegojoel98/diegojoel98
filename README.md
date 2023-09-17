@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Your Own Custom Directives in Vue](https://medium.com/@dgongoragamboa/how-to-build-your-own-custom-directives-in-vue-c127a980d330?source=rss-7019711a827d------2)
+- [Cómo Construir Tus Propias Directivas Personalizadas en Vue](https://medium.com/@dgongoragamboa/c%C3%B3mo-construir-tus-propias-directivas-personalizadas-en-vue-96246066ebcc?source=rss-7019711a827d------2)
 - [New Native Scroll-driven Animations with CSS](https://medium.com/@dgongoragamboa/new-native-scroll-driven-animations-with-css-d8e0289df30c?source=rss-7019711a827d------2)
 - [Nuevas Animaciones de Scroll Nativas con CSS](https://medium.com/@dgongoragamboa/nuevas-animaciones-de-scroll-nativas-con-css-8f05abdb4224?source=rss-7019711a827d------2)
-- [How to Use Vue’s Routing System Like an Expert](https://medium.com/@dgongoragamboa/how-to-use-vues-routing-system-like-an-expert-c24058c99930?source=rss-7019711a827d------2)
-- [Cómo Utilizar el Sistema de Rutas de Vue Como un Experto](https://medium.com/@dgongoragamboa/c%C3%B3mo-utilizar-el-sistema-de-rutas-de-vue-como-un-experto-53001dba39bb?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
