@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Layouts, Slots, and Composables in Vue](https://medium.com/@dgongoragamboa/introduction-to-layouts-slots-and-composables-in-vue-91215850ce27?source=rss-7019711a827d------2)
+- [Introducción a Layouts, Slots y Composables en Vue](https://medium.com/@dgongoragamboa/introducci%C3%B3n-a-layouts-slots-y-composables-en-vue-17f080e9e67d?source=rss-7019711a827d------2)
 - [How to Build Your Own Custom Directives in Vue](https://medium.com/@dgongoragamboa/how-to-build-your-own-custom-directives-in-vue-c127a980d330?source=rss-7019711a827d------2)
 - [Cómo Construir Tus Propias Directivas Personalizadas en Vue](https://medium.com/@dgongoragamboa/c%C3%B3mo-construir-tus-propias-directivas-personalizadas-en-vue-96246066ebcc?source=rss-7019711a827d------2)
-- [New Native Scroll-driven Animations with CSS](https://medium.com/@dgongoragamboa/new-native-scroll-driven-animations-with-css-d8e0289df30c?source=rss-7019711a827d------2)
-- [Nuevas Animaciones de Scroll Nativas con CSS](https://medium.com/@dgongoragamboa/nuevas-animaciones-de-scroll-nativas-con-css-8f05abdb4224?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
