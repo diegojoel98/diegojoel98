@@ -42,7 +42,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Components refs &lpar;Delegated Control by Reference&rpar; in Vue](https://medium.com/@dgongoragamboa/introduction-to-components-refs-delegated-control-by-reference-in-vue-6e2613120f49?source=rss-7019711a827d------2)
+- [Introduction to Components refs &lpar;Delegated Control by Reference&rpar; in Vue](https://blog.stackademic.com/introduction-to-components-refs-delegated-control-by-reference-in-vue-6e2613120f49?source=rss-7019711a827d------2)
 - [Introducción al Control delegado por referencia en Vue](https://medium.com/@dgongoragamboa/introducci%C3%B3n-al-control-delegado-por-referencia-en-vue-3a446dd2dcff?source=rss-7019711a827d------2)
 - [Introduction to Layouts, Slots, and Composables in Vue](https://medium.com/@dgongoragamboa/introduction-to-layouts-slots-and-composables-in-vue-91215850ce27?source=rss-7019711a827d------2)
 - [Introducción a Layouts, Slots y Composables en Vue](https://medium.com/@dgongoragamboa/introducci%C3%B3n-a-layouts-slots-y-composables-en-vue-17f080e9e67d?source=rss-7019711a827d------2)
