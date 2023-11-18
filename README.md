@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to the new control flow for our Angular 17 templates](https://medium.com/@dgongoragamboa/introduction-to-the-new-control-flow-for-our-angular-17-templates-2ee64ca5f9a0?source=rss-7019711a827d------2)
+- [Introducción al nuevo control del flujo en templates de Angular 17](https://medium.com/@dgongoragamboa/introducci%C3%B3n-al-nuevo-control-del-flujo-en-templates-de-angular-17-eec90e2c1cc4?source=rss-7019711a827d------2)
 - [Introduction to Components refs &lpar;Delegated Control by Reference&rpar; in Vue](https://blog.stackademic.com/introduction-to-components-refs-delegated-control-by-reference-in-vue-6e2613120f49?source=rss-7019711a827d------2)
 - [Introducción al Control delegado por referencia en Vue](https://medium.com/@dgongoragamboa/introducci%C3%B3n-al-control-delegado-por-referencia-en-vue-3a446dd2dcff?source=rss-7019711a827d------2)
-- [Introduction to Layouts, Slots, and Composables in Vue](https://medium.com/@dgongoragamboa/introduction-to-layouts-slots-and-composables-in-vue-91215850ce27?source=rss-7019711a827d------2)
-- [Introducción a Layouts, Slots y Composables en Vue](https://medium.com/@dgongoragamboa/introducci%C3%B3n-a-layouts-slots-y-composables-en-vue-17f080e9e67d?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
