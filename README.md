@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 17: Cambios adicionales que no conocías](https://medium.com/@dgongoragamboa/angular-17-cambios-adicionales-que-no-conoc%C3%ADas-bd6324e9df61?source=rss-7019711a827d------2)
+- [Angular 17: Additional Changes You Didn’t Know About](https://javascript.plainenglish.io/angular-17-additional-changes-you-didnt-know-about-3232e3c6d3ab?source=rss-7019711a827d------2)
 - [Angular 17: Things you should know about the new version](https://medium.com/@dgongoragamboa/angular-17-things-you-should-know-about-the-new-version-940f00fcd221?source=rss-7019711a827d------2)
 - [Angular 17: Cosas que debes de saber de la nueva versión](https://medium.com/@dgongoragamboa/angular-17-cosas-que-debes-de-saber-de-la-nueva-versi%C3%B3n-ad22d0cd53de?source=rss-7019711a827d------2)
-- [Introduction to the new control flow for our Angular 17 templates](https://medium.com/@dgongoragamboa/introduction-to-the-new-control-flow-for-our-angular-17-templates-2ee64ca5f9a0?source=rss-7019711a827d------2)
-- [Introducción al nuevo control del flujo en templates de Angular 17](https://medium.com/@dgongoragamboa/introducci%C3%B3n-al-nuevo-control-del-flujo-en-templates-de-angular-17-eec90e2c1cc4?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
