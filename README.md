@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering: How to Get Better Results](https://blog.stackademic.com/prompt-engineering-how-to-get-better-results-b4a14b511599?source=rss-7019711a827d------2)
+- [Prompt Engineering: Cómo obtener mejores resultados](https://medium.com/@dgongoragamboa/prompt-engineering-c%C3%B3mo-obtener-mejores-resultados-816cb9871326?source=rss-7019711a827d------2)
 - [Como enviar correos con AWS SES, guía completa](https://medium.com/@dgongoragamboa/como-enviar-correos-con-aws-ses-gu%C3%ADa-completa-b7470f22220e?source=rss-7019711a827d------2)
 - [Sending Emails with AWS SES: A Comprehensive Guide](https://aws.plainenglish.io/sending-emails-with-aws-ses-a-comprehensive-guide-31140dbb3392?source=rss-7019711a827d------2)
-- [Angular 17: Cambios adicionales que no conocías](https://medium.com/@dgongoragamboa/angular-17-cambios-adicionales-que-no-conoc%C3%ADas-bd6324e9df61?source=rss-7019711a827d------2)
-- [Angular 17: Additional Changes You Didn’t Know About](https://javascript.plainenglish.io/angular-17-additional-changes-you-didnt-know-about-3232e3c6d3ab?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
