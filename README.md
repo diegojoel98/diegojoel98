@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Implementación de Azure Active Directory en una Aplicación Angular](https://medium.com/@dgongoragamboa/implementaci%C3%B3n-de-azure-active-directory-en-una-aplicaci%C3%B3n-angular-607836f64132?source=rss-7019711a827d------2)
 - [Prompt Engineering: How to Get Better Results](https://blog.stackademic.com/prompt-engineering-how-to-get-better-results-b4a14b511599?source=rss-7019711a827d------2)
 - [Prompt Engineering: Cómo obtener mejores resultados](https://medium.com/@dgongoragamboa/prompt-engineering-c%C3%B3mo-obtener-mejores-resultados-816cb9871326?source=rss-7019711a827d------2)
 - [Como enviar correos con AWS SES, guía completa](https://medium.com/@dgongoragamboa/como-enviar-correos-con-aws-ses-gu%C3%ADa-completa-b7470f22220e?source=rss-7019711a827d------2)
-- [Sending Emails with AWS SES: A Comprehensive Guide](https://aws.plainenglish.io/sending-emails-with-aws-ses-a-comprehensive-guide-31140dbb3392?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
