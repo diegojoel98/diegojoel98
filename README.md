@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué es la Lazy loading en Aplicaciones Web?](https://medium.com/@dgongoragamboa/qu%C3%A9-es-la-lazy-loading-en-aplicaciones-web-8d8115c657c9?source=rss-7019711a827d------2)
+- [What is Lazy Loading in Web Apps?](https://blog.stackademic.com/what-is-lazy-loading-in-web-apps-dfa8ade6573c?source=rss-7019711a827d------2)
+- [¿Qué es el Lazy loading en Aplicaciones Web?](https://medium.com/@dgongoragamboa/qu%C3%A9-es-la-lazy-loading-en-aplicaciones-web-8d8115c657c9?source=rss-7019711a827d------2)
 - [What is SSR and CSR: A simple explanation](https://medium.com/@dgongoragamboa/what-is-ssr-and-csr-a-simple-explanation-c25354c8b34e?source=rss-7019711a827d------2)
 - [Qué es SSR y CSR: Una simple explicación](https://medium.com/@dgongoragamboa/qu%C3%A9-es-ssr-y-csr-una-simple-explicaci%C3%B3n-8ea0821da619?source=rss-7019711a827d------2)
-- [Implementation of Azure Active Directory in an Angular Application](https://javascript.plainenglish.io/implementation-of-azure-active-directory-in-an-angular-application-199174cdf4fb?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
