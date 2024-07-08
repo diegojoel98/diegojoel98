@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Qué son las Container Queries en CSS y Cómo Usarlas](https://medium.com/@dgongoragamboa/qu%C3%A9-son-las-container-queries-en-css-y-c%C3%B3mo-usarlas-d3408fd31163?source=rss-7019711a827d------2)
 - [How to Create a Countdown in JavaScript](https://medium.com/@dgongoragamboa/how-to-create-a-countdown-in-javascript-1c4e7528387f?source=rss-7019711a827d------2)
 - [Como Crear un Countdown en Javascript](https://medium.com/@dgongoragamboa/como-crear-un-countdown-en-javascript-1769568c4955?source=rss-7019711a827d------2)
 - [What is Lazy Loading in Web Apps?](https://blog.stackademic.com/what-is-lazy-loading-in-web-apps-dfa8ade6573c?source=rss-7019711a827d------2)
-- [¿Qué es el Lazy loading en Aplicaciones Web?](https://medium.com/@dgongoragamboa/qu%C3%A9-es-la-lazy-loading-en-aplicaciones-web-8d8115c657c9?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
