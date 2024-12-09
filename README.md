@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Microfrontend and Why You Should Know About It](https://medium.com/@dgongoragamboa/what-is-microfrontend-and-why-you-should-know-about-it-36e812ec9ecc?source=rss-7019711a827d------2)
+- [¿Qué es Microfrontend y por qué debes conocerlo?](https://medium.com/@dgongoragamboa/qu%C3%A9-es-microfrontend-y-por-qu%C3%A9-debes-conocerlo-0c3214c3c141?source=rss-7019711a827d------2)
 - [How to Send SMS Using Twilio and AWS Lambda](https://medium.com/@dgongoragamboa/how-to-send-sms-using-twilio-and-aws-lambda-23f7f6c6abea?source=rss-7019711a827d------2)
 - [Como enviar SMS usando Twilio y AWS Lambda](https://medium.com/@dgongoragamboa/como-enviar-sms-usando-twilio-y-aws-lambda-09606d363c67?source=rss-7019711a827d------2)
-- [What are Container Queries in CSS and How to Use Them](https://blog.stackademic.com/what-are-container-queries-in-css-and-how-to-use-them-ee909d7e8781?source=rss-7019711a827d------2)
-- [Qué son las Container Queries en CSS y Cómo Usarlas](https://medium.com/@dgongoragamboa/qu%C3%A9-son-las-container-queries-en-css-y-c%C3%B3mo-usarlas-d3408fd31163?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
