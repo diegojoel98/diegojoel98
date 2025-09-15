@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Study Guide for the AWS Certified Cloud Practitioner Certification](https://medium.com/@dgongoragamboa/study-guide-for-the-aws-certified-cloud-practitioner-certification-eca5f1d69b5f?source=rss-7019711a827d------2)
+- [Guía de estudio para la certificación AWS Certified Cloud Practitioner](https://medium.com/@dgongoragamboa/gu%C3%ADa-de-estudio-para-la-certificaci%C3%B3n-aws-certified-cloud-practitioner-d1ad239fd0b8?source=rss-7019711a827d------2)
 - [How to Install WordPress on Your Computer and Create Websites Locally](https://medium.com/@dgongoragamboa/how-to-install-wordpress-on-your-computer-and-create-websites-locally-a38cc6bdf377?source=rss-7019711a827d------2)
 - [Cómo instalar WordPress en tu computadora y crear sitios web localmente](https://medium.com/@dgongoragamboa/c%C3%B3mo-instalar-wordpress-en-tu-computadora-y-crear-sitios-web-localmente-580071cc785a?source=rss-7019711a827d------2)
-- [What is Microfrontend and Why You Should Know About It](https://medium.com/@dgongoragamboa/what-is-microfrontend-and-why-you-should-know-about-it-36e812ec9ecc?source=rss-7019711a827d------2)
-- [¿Qué es Microfrontend y por qué debes conocerlo?](https://medium.com/@dgongoragamboa/qu%C3%A9-es-microfrontend-y-por-qu%C3%A9-debes-conocerlo-0c3214c3c141?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
