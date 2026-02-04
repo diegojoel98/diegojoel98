@@ -42,10 +42,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Draft PRs + Review Bots: a simple flow to cut noise and rework](https://javascript.plainenglish.io/draft-prs-review-bots-a-simple-flow-to-cut-noise-and-rework-5723510d58c4?source=rss-7019711a827d------2)
+- [Draft PRs + Review Bots: un flujo simple para reducir ruido y retrabajo](https://medium.com/@dgongoragamboa/draft-prs-review-bots-un-flujo-simple-para-reducir-ruido-y-retrabajo-efd35dff33e6?source=rss-7019711a827d------2)
 - [Microfrontends Without Chaos: 5 Rules That Actually Work in Real Teams](https://javascript.plainenglish.io/microfrontends-without-chaos-5-rules-that-actually-work-in-real-teams-349b77d8992e?source=rss-7019711a827d------2)
 - [Microfrontends sin caos: 5 reglas que sí funcionan en equipos reales](https://medium.com/@dgongoragamboa/microfrontends-sin-caos-5-reglas-que-s%C3%AD-funcionan-en-equipos-reales-82f0d6edc11f?source=rss-7019711a827d------2)
-- [Study Guide for the AWS Certified Cloud Practitioner Certification](https://aws.plainenglish.io/study-guide-for-the-aws-certified-cloud-practitioner-certification-eca5f1d69b5f?source=rss-7019711a827d------2)
-- [Guía de estudio para la certificación AWS Certified Cloud Practitioner](https://medium.com/@dgongoragamboa/gu%C3%ADa-de-estudio-para-la-certificaci%C3%B3n-aws-certified-cloud-practitioner-d1ad239fd0b8?source=rss-7019711a827d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
