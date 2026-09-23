@@ -14,11 +14,11 @@
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=20E85B&amp;height=300&amp;section=header&amp;text=Diego%20Gongora&amp;fontSize=68&amp;fontColor=F2F2F2&amp;fontAlign=50&amp;fontAlignY=34&amp;desc=Software%20Engineer&amp;descSize=18&amp;descColor=B0B0B0&amp;descAlign=72&amp;descAlignY=54&amp;animation=fadeIn" alt="Diego Gongora — Software Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=20E85B&amp;height=300&amp;section=header&amp;text=Diego%20Gongora&amp;fontSize=68&amp;fontColor=FFFFFF&amp;fontAlign=50&amp;fontAlignY=34&amp;desc=Software%20Engineer&amp;descSize=18&amp;descColor=FFFFFF&amp;descAlign=72&amp;descAlignY=54&amp;animation=fadeIn" alt="Diego Gongora — Software Engineer" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=E6E6E6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software%20Engineer;Tech%20Lead;Based%20in%20Mexico;Building%20quality%20web%20experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software%20Engineer;Tech%20Lead;Based%20in%20Mexico;Building%20quality%20web%20experiences)](https://git.io/typing-svg)
 
 </div>
 
