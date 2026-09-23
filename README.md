@@ -14,7 +14,7 @@
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=40404080&amp;height=300&amp;section=header&amp;text=Diego%20Gongora&amp;fontSize=68&amp;fontColor=F2F2F2&amp;fontAlign=50&amp;fontAlignY=34&amp;desc=Software%20Engineer&amp;descSize=18&amp;descColor=B0B0B0&amp;descAlign=72&amp;descAlignY=54&amp;animation=fadeIn" alt="Diego Gongora — Software Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=39D35380&amp;height=300&amp;section=header&amp;text=Diego%20Gongora&amp;fontSize=68&amp;fontColor=F2F2F2&amp;fontAlign=50&amp;fontAlignY=34&amp;desc=Software%20Engineer&amp;descSize=18&amp;descColor=B0B0B0&amp;descAlign=72&amp;descAlignY=54&amp;animation=fadeIn" alt="Diego Gongora — Software Engineer" />
 
 <div align="center">
 
@@ -64,4 +64,4 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=40404080&amp;height=200&amp;section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=39D35380&amp;height=200&amp;section=footer" alt="Footer wave" />
