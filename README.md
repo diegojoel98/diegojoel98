@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software%20Engineer;Tech%20Lead;Based%20in%20Mexico;Building%20quality%20web%20experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=500&amp;color=238636&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software%20Engineer;Tech%20Lead;Based%20in%20Mexico;Building%20quality%20web%20experiences)](https://git.io/typing-svg)
 
 </div>
 
